@@ -1,3 +1,9 @@
+# 24.0.0
+
+## Resetted Version Number
+
+* We resetted the version number to 22.3.27 to match the Electron version number. This version of electron is still compatible with windows 7 and 8.1.
+
 # 23.6.2
 
 ## ElectronNET.API
